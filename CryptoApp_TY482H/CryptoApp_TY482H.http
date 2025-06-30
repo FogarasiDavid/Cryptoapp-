@@ -1,0 +1,6 @@
+@CryptoApp_TY482H_HostAddress = http://localhost:5097
+
+GET {{CryptoApp_TY482H_HostAddress}}/api/cryptos
+Accept: application/json
+
+###
